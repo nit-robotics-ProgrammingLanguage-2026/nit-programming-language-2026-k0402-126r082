@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "nit-programming-language-2026"
+assignment: "k0402"
+secret: "nmm2dsr0"
+owner:
+  username: "126R082"
+  id: 337918686
+  accepted_at: "2026-10-19T12:21:13Z"
+source:
+  owner: "nit-robotics-ProgrammingLanguage-2026"
+  owner_id: 326343566
+  repo: "template-task0402-double_calc"
+  branch: "main"
